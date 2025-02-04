@@ -9,7 +9,7 @@ module.exports = {
   commandsDir: './commands',  
   embedColor: "#1db954",
   activityName: "Lille RolePlay V2", 
-  activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
+  activityType: "PLAYING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/rFBSqyz6E6",
   embedTimeout: 5, 
   errorLog: "", 
