@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "Développé par SSRR | Prime Music v1.2",
+    footer: "Lille RolePlay",
     ping: {
       description: "Vérifier la latence du bot",
       response: "Mesure en cours...",
@@ -104,7 +104,7 @@ module.exports = {
           description: `
           **Bienvenue sur {botName}!**
 
-          > Votre compagnon musical ultime sur Discord.
+          > Votre compagnon musical ultime sur Lille.
           > Voici les informations détaillées sur le bot :
                   
           **📂 Commandes :** {totalCommands}
